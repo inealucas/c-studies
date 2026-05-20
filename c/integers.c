@@ -5,7 +5,7 @@ int main() {
     int year = 2026;
     int quantity = 3;
 
-    printf("You are %d years old\n", age);
+    printf("Your age is %d\n", age);
     printf("The year is %d\n", year);
     printf("You ordered %d items\n", quantity);
 

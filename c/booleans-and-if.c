@@ -4,7 +4,7 @@
 int main() {
 
 //BOOL
-bool IsOnline = true;
+bool IsOnline = false;
 bool IsStudent = false;
 bool forSale = true;
 
