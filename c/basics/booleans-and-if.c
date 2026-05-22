@@ -11,7 +11,7 @@ bool forSale = true;
 
 
 if(forSale){
-printf ("That item is for sale");
+    printf("That item is for sale");
 }
 else{
     printf("That item is NOT for sale");
