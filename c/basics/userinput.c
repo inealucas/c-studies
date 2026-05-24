@@ -3,18 +3,17 @@
 int main (){
 
    int idade = 18;
-   double salario = 15.200;
-   char sexo = 'M';
-   bool habilitado = true;
+   
 
-   if(idade < 18){
-   printf("Menor de idade");
+  if (idade < 18) {
+    printf("Menor de idade");
 } else {
-    if(idade > 60){
-     printf("Idoso");   
-     } else {
+    if (idade < 60) {
         printf("Adulto");
-     }
+    } else {
+        printf("Idoso");
+    }
+}
 
     return 0;
 }
