@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdbool.h>
 int main (){
 
    int idade = 18;
@@ -14,6 +13,7 @@ int main (){
         printf("Idoso");
     }
 }
+ 
 
     return 0;
 }
